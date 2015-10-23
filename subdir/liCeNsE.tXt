@@ -1,0 +1,1 @@
+This is a second license file. For testing purposes.
